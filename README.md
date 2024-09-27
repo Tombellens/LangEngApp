@@ -3,7 +3,7 @@
 ## Overview
 This project investigates the potential of transformer-based language models, such as DistilBERT, for early Alzheimer's disease (AD) screening through speech analysis. The study explores connections between biolinguistic theory and machine learning models, probing whether these models can detect linguistic markers of AD as identified by biolinguistic research. 
 
-This project was carried out in the context of the **Language Engineering course for the Master's in Artificial Intelligence (MAI)**.
+This project was carried out in the context of the **Language Engineering course for the Master's in Artificial Intelligence (MAI)**. A scientific report can be foundin the repository.
 
 ## Key Objectives
 1. **Bridge Biolinguistic Theory and Language Models**:  
